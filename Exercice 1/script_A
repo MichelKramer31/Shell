@@ -1,0 +1,4 @@
+echo Debut du script_A 
+echo Appel du script_B en mode foreground 
+./script_B 
+echo Fin du script_A

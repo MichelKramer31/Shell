@@ -1,0 +1,8 @@
+echo Debut du script_B 
+echo B : 1 
+sleep 1 
+echo B : 2 
+sleep 1 
+echo B : 3 
+sleep 1 
+echo Fin du script_B

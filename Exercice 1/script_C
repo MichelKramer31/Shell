@@ -1,0 +1,11 @@
+echo Debut du script_C 
+echo Appel du script_B en mode background 
+./script_B & 
+echo Apres appel du script_B 
+echo C : 1 
+sleep 1 
+echo C : 2 
+sleep 1 
+echo C : 3 
+sleep 1 
+echo Fin du script_C
